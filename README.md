@@ -1,3 +1,12 @@
 # Video Player
+music player made using electron
 
-Basic Video Player
+![](./screenshots/screenshot.png)
+
+
+## Just run
+```
+   cd electron-video-player
+   npm install
+   npm start
+```
